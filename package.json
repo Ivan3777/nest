@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Ivan3777/nest#readme",
   "devDependencies": {
+    "typescript": "^4.9.5"
   },
   "dependencies": {
     "@nestjs/cli": "^9.2.0"
